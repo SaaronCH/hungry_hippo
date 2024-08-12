@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.cards-wrapper
+{
+  column-gap: 15px;
+  margin-top: 12px;
+  padding: 12px;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
